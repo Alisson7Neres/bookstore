@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 ba04970d7bef361f3fe48505c90e48915ba2f911 Alisson7Neres <alisson.neres@hotmail.com> 1640789050 -0300	clone: from https://github.com/Alisson7Neres/bookstore-front.git
+ba04970d7bef361f3fe48505c90e48915ba2f911 6b80e7138d3985883cf4b3a132cce9c7af27c71a Alisson7Neres <alisson.neres@hotmail.com> 1640875130 -0300	commit: categoria CREATE implementado
+6b80e7138d3985883cf4b3a132cce9c7af27c71a 4530d35069b8bedda6afaf6fdf18e91ae70df9ad Alisson7Neres <alisson.neres@hotmail.com> 1641154628 -0300	commit: categoria DELETE implementado
+4530d35069b8bedda6afaf6fdf18e91ae70df9ad 56811a0e2ac1c7b71d60e8db84fda011dc0535e9 Alisson7Neres <alisson.neres@hotmail.com> 1641391721 -0300	commit: categoria UPDATE implementado
+56811a0e2ac1c7b71d60e8db84fda011dc0535e9 4eb904cbe83567a49bfa0db5fa2e26b1464ad5bd Alisson7Neres <alisson.neres@hotmail.com> 1641480318 -0300	commit: livro READ implementado
+4eb904cbe83567a49bfa0db5fa2e26b1464ad5bd fd742b6fbecc61f009f05c5026d94631e41ff39b Alisson7Neres <alisson.neres@hotmail.com> 1641753101 -0300	commit: livro CREATE implementado
+fd742b6fbecc61f009f05c5026d94631e41ff39b e24d201cfaf2f57ef2edea6ba4c27256ff1d2f9f Alisson7Neres <alisson.neres@hotmail.com> 1642083885 -0300	commit: livro UPDATE implementado
+e24d201cfaf2f57ef2edea6ba4c27256ff1d2f9f a2d687c40f20313eb527faa523ddfd69afd43954 Alisson7Neres <alisson.neres@hotmail.com> 1642425602 -0300	commit: livro DELETE implementado
+a2d687c40f20313eb527faa523ddfd69afd43954 2f8c459666010cd1ff3889e1da00beee0ea5d912 Alisson7Neres <alisson.neres@hotmail.com> 1642428330 -0300	commit: livro READ de livro implementado
