@@ -35,6 +35,10 @@ import { LivroUpdateComponent } from './components/views/livro/livro-update/livr
 import { LivroDeleteComponent } from './components/views/livro/livro-delete/livro-delete.component';
 import { LivroReadBookComponent } from './components/views/livro/livro-read-book/livro-read-book.component';
 
+import { LoaderComponent } from './components/loader/loader.component';
+
+import { NgxLoadingModule } from 'ngx-loading';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -51,6 +55,7 @@ import { LivroReadBookComponent } from './components/views/livro/livro-read-book
     LivroUpdateComponent,
     LivroDeleteComponent,
     LivroReadBookComponent,
+    LoaderComponent,
   ],
   imports: [
     BrowserModule,
@@ -68,7 +73,8 @@ import { LivroReadBookComponent } from './components/views/livro/livro-read-book
     MatFormFieldModule,
     MatInputModule,
     MatSnackBarModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    NgxLoadingModule.forRoot({})
 
   ],
   providers: [],
