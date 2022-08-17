@@ -1,6 +1,6 @@
 # Preview
 
-<a href="https://alisson7neres.github.io/">Bookstore<a>
+<a href="https://alisson7neres.github.io/bookstore/">Bookstore<a>
 <img src="https://github.com/Alisson7Neres/bookstore/blob/master/img/Peek%2020-02-2022%2020-53.gif">
 
 
